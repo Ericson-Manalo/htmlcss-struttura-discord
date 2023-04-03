@@ -89,133 +89,21 @@ nav ul.flex{
     background-color: #228b22;
 }
 
-/*footer{
-    background-color: #1d1d1e;
-    height: 550px;
+.black-bg{
+    background-color: #212325;
 }
 
-hr{
-    border: 1px white solid;
-}
-
-.nav-item{
-
-    background-color: #DAA520;
-    border: 1px black solid;
-    margin-top: 20px;
-}
-
-.logo{
-    justify-content: start;
-    align-items: center;
-}
-
-.login{
-    justify-content: end;
-    align-items: center;
-}
-
-.main-item{
-    height: 250px;
-    width: 600px;
-    background-color: #ee82ee;
-}
-
-.main-heading{
-    height: 300px;
-    background-color: #01098b;
-    align-items: center;
-    justify-content: center;
-}
-
-.blue-box{
-    width: 700px;
-    height: 400px;
-    background-color: #1e90ff;
-}
-
-.pink-box{
-    width: 500px;
-    height: 400px;
-    background-color: #fdc0cb;
-}
-
-.main-section{
-    height: 480px;
-    justify-content: center;
-    align-items: center;
-}
-
-.second-section{
-    height: 480px;
-    justify-content: center;
-    align-items: center;
-    background-color: #d3d3d3;
-}
-
-.green-box{
-    height: 450px;
-    width: 1200px;
-    background-color: #228b22;
-}
 
 .salmon-box{
-    width: 300px;
+    width: 30%;
     height: 400px;
     background-color: #b86665;
-    border: 1px #ffff solid;
 }
 
 .aquamarine-box{
-    width: 225px;
+    width: 17.5%;
     height: 400px;
     background-color: #1b948e;
-    border: 1px #ffff solid;
 }
 
-.main-footer{
-    justify-content: center;
-    padding-top: 10px;
-    padding-bottom: 18px; /* 18 perchè 1px dato dal bordo dei box soprastanti e 1px dal hr
-}
-.low-footer{
-    padding-top: 20px;
-    justify-content: center;
-    align-items: flex-end;
-}
 
-.low-container{
-    width: 1200px;
-    background-color: #7fffd4;
-    height: 100px;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.botton-btn{
-    justify-content: flex-end;
-}
-
-section.upper-header{
-    height: 70px;
-    background-color: #a6d0dd;
-    justify-content: center;
-}
-
-nav ul.flex{
-    width: 600px;
-    height: 30px;
-    background-color: #DAA520;
-    align-items: center;
-    justify-content: center;
-    list-style-type: none;
-    border: 1px black solid;
-    margin-top: 20px;
-}
-
-div.low-container > div{
-    width: 100px;
-    height: 60px;
-    background-color: #fdb6c1;
-    align-items: center;
-}*/
