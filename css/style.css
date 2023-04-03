@@ -83,6 +83,12 @@ nav ul.flex{
     background-color: #d3d3d3;
 }
 
+.green-box{
+    height: 600px;
+    width: 100%;
+    background-color: #228b22;
+}
+
 /*footer{
     background-color: #1d1d1e;
     height: 550px;
