@@ -40,6 +40,37 @@
     justify-content: center;
 }
 
+.light-blue{
+    width: 700px;
+    height: 400px;
+    background-color: #1e90ff;
+}
+
+.pink{
+    width: 500px;
+    height: 400px;
+    background-color: #fdc0cb;
+}
+
+.main-section{
+    height: 480px;
+    justify-content: center;
+    align-items: center;
+}
+
+.second-section{
+    height: 480px;
+    justify-content: center;
+    align-items: center;
+    background-color: #d3d3d3;
+}
+
+.green-box{
+    height: 450px;
+    width: 1200px;
+    background-color: #228b22;
+}
+
 section.upper-header{
     height: 70px;
     background-color: #a6d0dd;
@@ -47,7 +78,7 @@ section.upper-header{
 }
 
 nav ul.flex{
-    width: 300px;
+    width: 600px;
     height: 30px;
     background-color: #DAA520;
     align-items: center;
@@ -56,4 +87,5 @@ nav ul.flex{
     border: 1px black solid;
     margin-top: 20px;
 }
+
 
