@@ -88,7 +88,19 @@
 .main-footer{
     justify-content: center;
     padding-top: 10px;
-    padding-bottom: 20px;
+    padding-bottom: 18px; /* 18 perchè 1px dato dal bordo dei box soprastanti e 1px dal hr*/
+}
+.low-footer{
+    padding-top: 20px;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.low-container{
+    width: 1200px;
+    background-color: #50967f;
+    height: 100px;
+    align-items: flex-end;
 }
 
 section.upper-header{
@@ -110,7 +122,7 @@ nav ul.flex{
 
 footer{
     background-color: #1d1d1e;
-    height: 600px;
+    height: 550px;
 }
 
 hr{
