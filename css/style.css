@@ -71,6 +71,26 @@
     background-color: #228b22;
 }
 
+.salmon-box{
+    width: 300px;
+    height: 400px;
+    background-color: #b86665;
+    border: 1px #ffff solid;
+}
+
+.aquamarine-box{
+    width: 225px;
+    height: 400px;
+    background-color: #1b948e;
+    border: 1px #ffff solid;
+}
+
+.main-footer{
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
 section.upper-header{
     height: 70px;
     background-color: #a6d0dd;
@@ -88,4 +108,11 @@ nav ul.flex{
     margin-top: 20px;
 }
 
+footer{
+    background-color: #1d1d1e;
+    height: 600px;
+}
 
+hr{
+    border: 1px white solid;
+}
