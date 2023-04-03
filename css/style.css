@@ -9,6 +9,15 @@
     display: flex;
 }
 
+footer{
+    background-color: #1d1d1e;
+    height: 550px;
+}
+
+hr{
+    border: 1px white solid;
+}
+
 .nav-item{
     width: 300px;
     height: 30px;
@@ -98,9 +107,14 @@
 
 .low-container{
     width: 1200px;
-    background-color: #50967f;
+    background-color: #7fffd4;
     height: 100px;
-    align-items: flex-end;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.botton-btn{
+    justify-content: flex-end;
 }
 
 section.upper-header{
@@ -120,11 +134,9 @@ nav ul.flex{
     margin-top: 20px;
 }
 
-footer{
-    background-color: #1d1d1e;
-    height: 550px;
-}
-
-hr{
-    border: 1px white solid;
+div.low-container > div{
+    width: 100px;
+    height: 60px;
+    background-color: #fdb6c1;
+    align-items: center;
 }
