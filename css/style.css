@@ -40,13 +40,13 @@
     justify-content: center;
 }
 
-.light-blue{
+.blue-box{
     width: 700px;
     height: 400px;
     background-color: #1e90ff;
 }
 
-.pink{
+.pink-box{
     width: 500px;
     height: 400px;
     background-color: #fdc0cb;
