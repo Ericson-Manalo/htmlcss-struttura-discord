@@ -9,8 +9,6 @@
     display: flex;
 }
 
-
-
 .big-container{
     width: 70%;
     margin: 0 auto;
@@ -63,10 +61,6 @@
     background-color: #01098b;
 }
 
-nav ul.flex{
-    list-style-type: none;
-}
-
 .lightblue-box{
     background-color: #1e90ff;
     height: 300px;
@@ -93,7 +87,6 @@ nav ul.flex{
     background-color: #212325;
 }
 
-
 .salmon-box{
     width: 30%;
     height: 400px;
@@ -105,5 +98,30 @@ nav ul.flex{
     height: 400px;
     background-color: #1b948e;
 }
+
+.footer-container{
+    height: 60px;
+    background-color: #7fffd4;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-btn{
+    align-items: center;
+    background-color: #fdb6c1;
+    padding: 10px;
+}
+
+.botton-btn{
+    align-items: center;
+    background-color: #fdb6c1;
+    padding: 10px;
+}
+
+nav ul.flex{
+    list-style-type: none;
+}
+
+
 
 
