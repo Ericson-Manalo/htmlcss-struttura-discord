@@ -18,9 +18,9 @@
 }
 
 .small-container{
-    width: 45%;
+    width: 40%;
     margin: auto;
-    max-width: 1200px;
+    max-width: 800px;
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -116,6 +116,10 @@
     align-items: center;
     background-color: #fdb6c1;
     padding: 10px;
+}
+
+.zerobottomgpadding{
+    padding-bottom: 0px;
 }
 
 nav ul.flex{
